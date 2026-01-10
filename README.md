@@ -40,15 +40,17 @@ Cloudflare не поддерживает проброс REALITY, поэтому 
 Коннектимся к серверу по ssh
 
 Запускаем команду (после прогона скрипта НЕ нужно будет настраивать протоколы и подписки вручную)
-
-
-
-
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
 ```sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/kgorobets459-afk/script-3x-ui-mozaroc/refs/heads/main/x-ui-pro.sh?token=GHSAT0AAAAAADS6DHPJO4YPPFBYUFVQ7MDO2LCTWCQ) -install yes"```
-
-
-
-
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
 
 Скрипт попросит указать ваши домены, сначала для панели, затем для реалити, указываем, ждем заверешения
 
